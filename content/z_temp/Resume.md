@@ -1,1 +1,1 @@
-<object data="../static/pdf/Resume2025.pdf" type="application/pdf" width="100%" height="1050px"> <p>Unable to display PDF file. <a href="../static/pdf/your-file.pdf">Download</a> instead.</p> </object>
+<object data="../static/pdf/Resume2025.pdf" type="application/pdf" width="100%" height="1150px"> <p>Unable to display PDF file. <a href="../static/pdf/your-file.pdf">Download</a> instead.</p> </object>
