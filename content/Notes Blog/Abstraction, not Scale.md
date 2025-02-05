@@ -5,8 +5,7 @@ tags: [AI]
 related: 
 aliases:
 ---
-
-## Failure to Generalize
+## Failures to Generalize
 - LLMs suffer from a failure to generalize, resulting in extreme sensitivity to phrasing, small deviations on familiar problems, hallucinations, etc.
 	- For example, for a long time LLMs would fail minor variations on the monty-hall problem. They were only patched by being special-cased.
 	- State of the art models still suffer with this lack of generalization on problems that aren't special-cased
@@ -65,7 +64,7 @@ aliases:
 -  We can try to leverage Deep Learning to prune our Program Search; we can "draw maps". 
 - Similar to the example above of asking LLM to code a solution to multiply 3-digit numbers, we can use LLM to generate candidate programs for Program Search. This actually already has a high ARC-AGI score. 
 
-
+## For later
 - #todo Generalization in terms of Information Theory, more formally / mathematically
 - #todo : Nelson Goodman Ways of Worldmaking in relation to generalization, both type 1 and type 2, faithful inductions as/and kernels of structure
 - #todo theory-ladenness of 'correctness' and kernels of structure. language as truth. Assumptions of the correspondence theory of truth. 
