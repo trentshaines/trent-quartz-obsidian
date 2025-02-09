@@ -15,6 +15,7 @@ title: "Landing Page"
 
 
 ## Online Profiles
+- trentshaines@gmail.com
 - [Goodreads](https://www.goodreads.com/user/show/14916932-trent) 
 - [RateYourMusic](https://rateyourmusic.com/~trentini_taco)
 - [Pinterest](https://www.pinterest.com/trentini_taco/)
