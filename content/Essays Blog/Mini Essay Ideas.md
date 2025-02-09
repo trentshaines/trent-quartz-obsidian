@@ -1,7 +1,11 @@
+---
+created: 2024-7-18 20:59
+type: 
+tags: 
+related: 
+aliases:
+---
 
-<hr>
-
-Tags: #MOC
 - Borges and Kantian synthetic a priori, discovering the rules we are bound to from within them, inference into the data generating process
 - Kafka and epistemological pessimism/skeptcisim  + the absurd by nagel
 - taking seriously Monism (moderns views like deleuze, its implications, ways of worldmaking, etc.)
