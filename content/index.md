@@ -13,6 +13,11 @@ title: "Landing Page"
 
 <hr>
 
+[[Essays]]
+
+![[Notes]]
+
+<hr>
 
 ## Online Profiles
 - trentshaines@gmail.com

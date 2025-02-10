@@ -23,4 +23,4 @@ aliases:
 			- Attempts : sweet trip, 
 	- To Figure out how to tie in - improvisational / free jazz / krautrock 
 		- possibly the information theory angle, and how we can handle more information through structure via programming 
-- Culture politics as a vantage point for causally modeling the world - mark fisher, marx, etc
+- Culture and politics as a vantage point for causally modeling the world - mark fisher, marx, etc
