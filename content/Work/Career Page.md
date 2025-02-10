@@ -4,7 +4,7 @@ type:
 tags: 
 related: 
 aliases:
-title: "Career"
+title: "Career Page"
 ---
 ## [Resume (Link)](../static/pdf/Resume2025.pdf)
 
