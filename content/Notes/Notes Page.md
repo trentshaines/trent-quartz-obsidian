@@ -12,7 +12,7 @@ aliases:
 	- Metaphysics
 	- ....
 ## AI Speculation / Theory
-- [[Abstraction, Not Scale]]
+- [[Abstraction, not Scale]]
 
 ## References
 1. 
