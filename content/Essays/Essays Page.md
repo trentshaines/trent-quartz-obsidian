@@ -27,5 +27,6 @@ aliases:
 	- To Figure out how to tie in - improvisational / free jazz / krautrock 
 		- possibly the information theory angle, and how we can handle more information through structure via programming 
 - Culture and politics as a vantage point for causally modeling the world - mark fisher, marx, etc
+- Problem solving as infrastructure - fundamental concepts in representation, logic, and information theory
 ## References
 1. 

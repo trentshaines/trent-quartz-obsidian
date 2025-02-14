@@ -7,10 +7,13 @@ aliases:
 ---
 ## Overview
 - Topics I want to take notes on and share in the short term are:
-	- Theories of AI development trajectories
-	- Epistemology - Scientific Realism vs. Antirealism
-	- Metaphysics
-	- ....
+	- AI 
+		- Historical AI developments
+		- Theories of AI development trajectories
+	- Philosophy
+		- Epistemology - Scientific Realism vs. Antirealism
+		- Metaphysics
+	- 
 ## AI Speculation / Theory
 - [[Quartz/Notes/Abstraction, not Scale|Abstraction, not Scale|]]
 
