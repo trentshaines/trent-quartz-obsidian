@@ -21,12 +21,13 @@ aliases:
 	- violas, gamelan, sitar, piano, natural instruments and notes(vu, steve reich, alice coltrane). modern classical
 	- production and electronic focused: tape loops, synths (revolver, eno, can, this heat)
 	- guitars and mods (glenn branca, mbv)
-	- what id like to see:
+	- what id like to see in drone:  in drone: 
 		- programmatic level of control in distortion, fractal like sounds, …
-			- Attempts : sweet trip, stereolab, etc.
+			- Sort of aligned : sweet trip, stereolab, etc.
 	- To Figure out how to tie in - improvisational / free jazz / krautrock 
 		- possibly the information theory angle, and how we can handle more information through structure via programming 
 - Culture and politics as a vantage point for causally modeling the world - mark fisher, marx, etc
 - Problem solving as infrastructure - fundamental concepts in representation, logic, and information theory
+- Japanese melancholy and helplessness - boris lrd …
 ## References
 1. 
