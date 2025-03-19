@@ -14,7 +14,89 @@ title: "Career Page"
 
 ## Projects
 	
-<style> /* Container for the cards */ .cards-container { display: flex; gap: 2rem; /* Space between cards */ flex-wrap: wrap; /* Allows wrapping on smaller screens */ justify-content: flex-start; /* Centers cards in the container */ } .card { position: relative; flex: 1 1 45%; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; } .card:hover { transform: translateY(-5px); box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); } .card-link { text-decoration: none; color: inherit; display: block; } .card-image { width: 100%; height: 200px; object-fit: cover; } .card-content { padding: 1.5rem; background: white; } .card-title { margin: 0 0 0.5rem 0; font-size: 1.5rem; color: #333; } .card-description { margin: 0; color: #666; font-size: 1rem; } .card-link:focus { outline: 2px solid #4A90E2; outline-offset: 2px; } </style> <div class="cards-container"> <!-- Convex Hull Card --> <article class="card"> <a href="https://convex-hull-visualizer.netlify.app/" class="card-link"> <img src="static/ConvexCover.png" alt="Convex Hull Visualizer" class="card-image"> <div class="card-content"> <h2 class="card-title">Convex Hull Algorithm Visualizer</h2> <p class="card-description">Created with HTML, CSS, JavaScript, React</p> </div> </a> </article> <!-- Music Visualizer Card --> <article class="card"> <a href="https://openprocessing.org/sketch/1571088" class="card-link"> <img src="static/Visualizer.png" alt="Abstract Music Visualizer" class="card-image"> <div class="card-content"> <h2 class="card-title">Abstract Music Visualizer</h2> <p class="card-description">Created with p5, JavaScript</p> </div> </a> </article> </div>
+<style>
+/* Container for the cards */
+.cards-container {
+  display: flex;
+  gap: 2rem; /* Space between cards */
+  flex-wrap: wrap; /* Allows wrapping on smaller screens */
+  justify-content: flex-start; /* Centers cards in the container */
+}
+
+.card {
+  position: relative;
+  flex: 1 1 45%;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: #2a2a2a; /* Dark gray background */
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.card-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  /* Removed grayscale filter to preserve image colors */
+}
+
+.card-content {
+  padding: 1.5rem;
+  background: #333333; /* Dark gray for content area */
+}
+
+.card-title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  color: #c0c0c0; /* More muted gray for title */
+}
+
+.card-description {
+  margin: 0;
+  color: #999999; /* More muted gray for description */
+  font-size: 1rem;
+}
+
+.card-link:focus {
+  outline: 2px solid #999; /* Light gray outline for focus state */
+  outline-offset: 2px;
+}
+</style>
+
+<div class="cards-container">
+  <!-- Convex Hull Card -->
+  <article class="card">
+    <a href="https://convex-hull-visualizer.netlify.app/" class="card-link">
+      <img src="static/ConvexCover.png" alt="Convex Hull Visualizer" class="card-image">
+      <div class="card-content">
+        <h2 class="card-title">Convex Hull Algorithm Visualizer</h2>
+        <p class="card-description">Created with HTML, CSS, JavaScript, React</p>
+      </div>
+    </a>
+  </article>
+
+  <!-- Music Visualizer Card -->
+  <article class="card">
+    <a href="https://openprocessing.org/sketch/1571088" class="card-link">
+      <img src="static/Visualizer.png" alt="Abstract Music Visualizer" class="card-image">
+      <div class="card-content">
+        <h2 class="card-title">Abstract Music Visualizer</h2>
+        <p class="card-description">Created with p5, JavaScript</p>
+      </div>
+    </a>
+  </article>
+</div>
 
 <hr>
 

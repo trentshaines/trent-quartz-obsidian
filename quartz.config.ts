@@ -44,8 +44,8 @@ const config: QuartzConfig = {
           light: "#1a1a1c",         // Dark background with slight warmth
           lightgray: "#2d2d2f",     // Slightly lighter neutral gray
           gray: "#5a5a5c",          // Medium neutral gray
-          darkgray: "#c0c0c2",      // Light neutral gray
-          dark: "#e8e8ea",          // Near-white with slight coolness
+          darkgray: "#a8a8aa",      // Softer light neutral gray
+          dark: "#b8b8ba",          // Very soft white-gray blend
           secondary: "#9c9c9c",     // Neutral silver accent
           tertiary: "#707070",      // Secondary neutral accent
           highlight: "rgba(156, 156, 156, 0.15)", // Neutral highlight
