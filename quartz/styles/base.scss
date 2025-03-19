@@ -9,6 +9,9 @@ html {
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
+  &:root {
+    saved-theme: dark;
+  }
 }
 
 body,

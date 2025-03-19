@@ -30,26 +30,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#c78a6e",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fffbea",         // Softer, less bright pastel yellow background
+          lightgray: "#f8f3e3",     // Very light, subtle yellow-tinted gray
+          gray: "#e8e0c0",          // Lighter medium yellow-tinted gray
+          darkgray: "#95907f",      // Lighter dark yellow-tinted gray (lightened)
+          dark: "#4a4840",          // Lightened near-black with yellow undertone
+          secondary: "#f0d280",     // Slightly more vibrant pastel yellow accent
+          tertiary: "#e6dbbf",      // Very soft pastel yellow-gold accent
+          highlight: "rgba(242, 222, 164, 0.15)", // Pastel yellow highlight
+          textHighlight: "#f7e9c688", // Soft pastel yellow text highlight
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1a1a1c",         // Dark background with slight warmth
+          lightgray: "#2d2d2f",     // Slightly lighter neutral gray
+          gray: "#5a5a5c",          // Medium neutral gray
+          darkgray: "#c0c0c2",      // Light neutral gray
+          dark: "#e8e8ea",          // Near-white with slight coolness
+          secondary: "#9c9c9c",     // Neutral silver accent
+          tertiary: "#707070",      // Secondary neutral accent
+          highlight: "rgba(156, 156, 156, 0.15)", // Neutral highlight
+          textHighlight: "#88888888", // Neutral text highlight
         },
       },
     },

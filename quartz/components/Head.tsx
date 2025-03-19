@@ -197,6 +197,11 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        {/* Force dark mode */}
+        <script dangerouslySetInnerHTML={{__html: `
+          document.documentElement.setAttribute('saved-theme', 'dark');
+          localStorage.setItem('theme', 'dark');
+        `}}></script>
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
