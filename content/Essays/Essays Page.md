@@ -31,6 +31,6 @@ aliases:
 - Art as a process / expression / movement in psychology. Strawberry fields, kafka on the shore, where are we going. A logic of psychology, not metaphysics
 - douban and its love of the encyclopedia, ways of worldmaking,  reduction, mental infrastructure/interfaces, metanarratives/summaries, collective unconscious, education systems , linguistics 
 	- related: Problem solving as infrastructure - fundamental concepts in representation, logic, and information theory
-	- Blue velvet as modern and pulp fiction as post modern, abuse of symbols, 'american spirituality'. la dolce vita
+- Blue velvet as modern and pulp fiction as post modern, abuse of symbols, 'american spirituality'. la dolce vita
 ## References
 1. 
