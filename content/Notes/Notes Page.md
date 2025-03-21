@@ -15,7 +15,7 @@ aliases:
 		- Metaphysics
 	- 
 ## AI Speculation / Theory
-- [[Quartz/Notes/Abstraction, not Scale|Abstraction, not Scale|]]
+- [[Quartz/Notes/Abstraction, not Scale|Abstraction, not Scale]]
 
 ## References
 1. 
