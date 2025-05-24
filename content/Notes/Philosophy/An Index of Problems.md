@@ -8,7 +8,12 @@ aliases:
 Need to make a directed graph for this
 - Need to add Tags:
 	- Self Reference
-- 
+	- epistemological
+
+	talk about
+	-  P vs NP, with examples
+	- Godel’s Incompleteness theorem, examples
+	- Busy Beaver + connection to ZFC
 
 Humean / Scientific
 - [[The Problem of Induction]]
