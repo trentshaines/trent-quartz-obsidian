@@ -5,7 +5,6 @@ tags:
 related: 
 aliases:
 ---
-written for a girl that i found myself in love with
 ## Epistemological Attitudes
 - Pyrhhonian skepticism
 - Problem of the Criterion
