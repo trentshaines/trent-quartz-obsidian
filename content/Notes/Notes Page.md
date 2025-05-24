@@ -14,6 +14,18 @@ aliases:
 		- Epistemology - Scientific Realism vs. Antirealism
 		- Metaphysics
 	- 
+ 
+- Long Term, notes I'd want to have a concise and clear explanation for
+	-  P vs NP, with examples
+	- Godel’s Incompleteness theorem, examples
+	- Busy Beaver + connection to ZFC
+	- QM Interpretations +
+	- Statistical Methods Class - Projects
+	- vipassana
+
+## Philosophy
+[[An Index of Problems]]
+
 ## AI Speculation / Theory
 [[Abstraction, not Scale]]
 

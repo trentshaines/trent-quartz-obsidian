@@ -9,7 +9,7 @@ aliases:
 - [[]]
 
 ## Future Topics
-- Borges and Kantian synthetic a priori, discovering the rules we are bound to from within them, inference into the data generating process
+- Borges and Kantian synthetic a priori, discovering the rules we are bound to from within them, inference into the data generating process. Correspondence theory of truth! Tarski godel noumena. Approaching correspondence 
 - Kafka and epistemological pessimism/skeptcisim  + the absurd by nagel, william james on belief
 - Modern views of Monism (like deleuze's spinoza, its implications, what it means in ways of worldmaking, etc.)
 	-  Meno and the Problem of Induction, parmenides, etc.
@@ -39,12 +39,18 @@ maybe topics
 	- The problem of Induction
 	- Reducibility/Irreducibilty
 	- Abstraction (plato)
-	- The interface of reducibilty and abstraction:
+	- The interface of reducibilty, abstraction, consciousness:
 		- Type 1 and Type 2 abstractions (chollet)
 		- Computationalism and Connectionism
+		- functionalism...
 	- A Priori, analytic
 	- Theory ladenness
 	- Signifier/Signified
 	- Language - 
+- information theory and metalanguages
+	- encoding and translation
+	- what is 'comoplex' or 'simple' depends on what is selected as the atomic units / characters / symbosl fo the langauge.
+	- this determines what is expressible and how its encoded
+	- relation to kantian a priori, faculties of perception
 ## References
 1. 
