@@ -11,19 +11,14 @@ aliases:
 - Problem of Induction
 - why these matter
 - art as metaphysical poetry
-## Construction and Expression
-- art
-- dynamism
-- dostoevsky
-- landscapes
+- language....
+
+- david bowie? 
+- to try to capture the transcendental - to trap it and display it, no matter how fickle
+	- platonic forms
+	- david bowie's glam rock
+	- religion
 	- 
-- science
-	- brian eno
-- drone
-- 
-## Individual Change - Abstraction & Feeling Everything
-- van gogh
-- pessoa
 
 ## Tokens
 - platonic forms

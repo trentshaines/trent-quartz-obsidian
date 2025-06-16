@@ -7,12 +7,16 @@ aliases:
 ---
 ## Essays
 - [[]]
+- [[Another Green World]]
 
 ## Future Topics
 - Borges and Kantian synthetic a priori, discovering the rules we are bound to from within them, inference into the data generating process. Correspondence theory of truth! Tarski godel noumena. Approaching correspondence 
 - Kafka and epistemological pessimism/skeptcisim  + the absurd by nagel, william james on belief
 - Modern views of Monism (like deleuze's spinoza, its implications, what it means in ways of worldmaking, etc.)
 	-  Meno and the Problem of Induction, parmenides, etc.
+	- slingshot theory and breaking out of it
+		- expressionism as a philosophy
+		- difference first 
 - Dostoevsky and honesty - honest as the base emotions / epistemic grounds and guidance by which the rest are interpreted through
 - Notes from underground and modernity. assertion of  the human spirit, artistic unity / dynamic hermeneutics of art, polyphony, and scientific antirealism. at the end, the hard problem of everything (kane B) and how to live with it
 - A music history and categorization of drone + information theory
