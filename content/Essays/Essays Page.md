@@ -56,5 +56,6 @@ maybe topics
 	- what is 'comoplex' or 'simple' depends on what is selected as the atomic units / characters / symbosl fo the langauge.
 	- this determines what is expressible and how its encoded
 	- relation to kantian a priori, faculties of perception
+- bachelorette music video - lyrics and video analysi. Feminism and postmodern art
 ## References
 1. 
