@@ -6,9 +6,9 @@ related:
 aliases:
 title: "Career Page"
 ---
-## [Resume (Link)](../static/pdf/Resume-09-08.pdf)
+## [Resume (Link)](static/pdf/Resume11-12.pdf)
 
-<object data="../static/pdf/Resume-09-08.pdf" type="application/pdf" width="100%" height="650px"> <p>Unable to display PDF file. <a href="../static/pdf/Resume-09-08.pdf">Download</a> instead.</p> </object>
+<object data="static/pdf/Resume11-12.pdf" type="application/pdf" width="100%" height="650px"> <p>Unable to display PDF file. <a href="static/pdf/Resume11-12.pdf">Download</a> instead.</p> </object>
 
 <hr>
 
