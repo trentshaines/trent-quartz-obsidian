@@ -7,6 +7,8 @@ aliases:
 title: "Trent Haines"
 ---
 
+![kandinsky](static/kandinsky.png)
+
 *A sentence or two about who you are and what you're up to.*
 
 ---
