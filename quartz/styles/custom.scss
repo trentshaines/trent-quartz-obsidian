@@ -1,3 +1,138 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Beandex-inspired styling overrides
+
+// Body text — use darker text for better readability
+body {
+  color: var(--dark);
+  letter-spacing: -0.01em;
+}
+
+p,
+ul,
+text,
+tr,
+td,
+li,
+ol {
+  color: var(--dark);
+}
+
+// Links — clean gray, underline on hover only
+a {
+  font-weight: 500;
+  color: var(--darkgray);
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: var(--dark);
+    text-decoration: underline;
+  }
+
+  // Remove the highlighted background on internal links
+  &.internal {
+    background-color: transparent;
+    padding: 0;
+    border-radius: 0;
+    color: var(--darkgray);
+
+    &:hover {
+      color: var(--dark);
+      text-decoration: underline;
+    }
+  }
+}
+
+// Headings — tighter tracking like beandex
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.025em;
+  font-weight: 600;
+  color: var(--dark);
+}
+
+h1 {
+  font-size: 1.875rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+// Article title
+.article-title {
+  letter-spacing: -0.025em;
+  font-weight: 700;
+  font-size: 2.25rem;
+}
+
+// Horizontal rules — subtle
+hr {
+  background-color: var(--lightgray);
+  margin: 1.5rem auto;
+}
+
+// Blockquotes — lighter border
+blockquote {
+  border-left: 2px solid var(--gray);
+  color: var(--darkgray);
+}
+
+// Code blocks — cleaner
+code {
+  font-size: 0.85em;
+  border-radius: 0.25rem;
+}
+
+pre {
+  border-radius: 0.5rem;
+}
+
+// Images — no border radius for cleaner look
+img {
+  border-radius: 0;
+}
+
+// Line height — slightly more open
+tbody, li, p {
+  line-height: 1.7rem;
+}
+
+// Explorer & sidebar — lighter weight
+.explorer .folder-title,
+.explorer a {
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+// Page title in header
+.page-title {
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+// Content meta (dates etc) — subtler
+.content-meta {
+  color: var(--gray);
+  font-size: 0.875rem;
+}
+
+// Tags
+a.tag-link {
+  font-weight: 400;
+  font-size: 0.875rem;
+}
+
+// Footer — subtle
+footer {
+  color: var(--gray);
+  font-size: 0.875rem;
+}
+
+// Search button — cleaner
+.search-button {
+  border-radius: 0.5rem;
+}

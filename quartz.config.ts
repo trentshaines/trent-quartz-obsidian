@@ -29,15 +29,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#ffffff",
-          lightgray: "#f5f5f5",
-          gray: "#d4d4d4",
-          darkgray: "#737373",
-          dark: "#171717",
+          light: "#f9fafb",
+          lightgray: "#f3f4f6",
+          gray: "#d1d5db",
+          darkgray: "#4b5563",
+          dark: "#111827",
           secondary: "#525252",
-          tertiary: "#a3a3a3",
-          highlight: "rgba(0, 0, 0, 0.05)",
-          textHighlight: "#e5e5e588",
+          tertiary: "#9ca3af",
+          highlight: "rgba(0, 0, 0, 0.04)",
+          textHighlight: "#e5e7eb88",
         },
         darkMode: {
           light: "#141414",
