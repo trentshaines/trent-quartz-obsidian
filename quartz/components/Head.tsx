@@ -51,10 +51,11 @@ export default (() => {
           </>
         )}
         {/* Iosevka font from Fontsource CDN */}
-        <link href="https://cdn.jsdelivr.net/npm/@fontsource/iosevka@5.0.8/400.css" rel="stylesheet" />
-        <link href="https://cdn.jsdelivr.net/npm/@fontsource/iosevka@5.0.8/500.css" rel="stylesheet" />
-        <link href="https://cdn.jsdelivr.net/npm/@fontsource/iosevka@5.0.8/600.css" rel="stylesheet" />
-        <link href="https://cdn.jsdelivr.net/npm/@fontsource/iosevka@5.0.8/700.css" rel="stylesheet" />
+        <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
+        <link href="https://cdn.jsdelivr.net/npm/@fontsource/iosevka@5.0.8/400.css" rel="stylesheet" crossOrigin="anonymous" />
+        <link href="https://cdn.jsdelivr.net/npm/@fontsource/iosevka@5.0.8/500.css" rel="stylesheet" crossOrigin="anonymous" />
+        <link href="https://cdn.jsdelivr.net/npm/@fontsource/iosevka@5.0.8/600.css" rel="stylesheet" crossOrigin="anonymous" />
+        <link href="https://cdn.jsdelivr.net/npm/@fontsource/iosevka@5.0.8/700.css" rel="stylesheet" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
