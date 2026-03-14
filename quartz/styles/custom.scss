@@ -2,20 +2,10 @@
 
 // Beandex-inspired styling overrides
 
-// Body text — use darker text for better readability
+// Body text — gray like beandex
 body {
-  color: var(--dark);
+  color: var(--darkgray);
   letter-spacing: -0.01em;
-}
-
-p,
-ul,
-text,
-tr,
-td,
-li,
-ol {
-  color: var(--dark);
 }
 
 // Links — clean gray, underline on hover only
@@ -43,11 +33,11 @@ a {
   }
 }
 
-// Headings — tighter tracking like beandex
+// Headings — tighter tracking like beandex, same gray tone
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.025em;
   font-weight: 600;
-  color: var(--dark);
+  color: var(--darkgray);
 }
 
 h1 {
