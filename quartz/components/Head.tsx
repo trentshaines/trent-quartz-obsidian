@@ -90,10 +90,10 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
-        {/* Force dark mode */}
+        {/* Force light mode */}
         <script dangerouslySetInnerHTML={{__html: `
-          document.documentElement.setAttribute('saved-theme', 'dark');
-          localStorage.setItem('theme', 'dark');
+          document.documentElement.setAttribute('saved-theme', 'light');
+          localStorage.setItem('theme', 'light');
         `}}></script>
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
