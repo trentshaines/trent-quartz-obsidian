@@ -20,35 +20,35 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
+      fontOrigin: "local",
+      cdnCaching: false,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Iosevka",
+        body: "Iosevka",
+        code: "Iosevka",
       },
       colors: {
         lightMode: {
-          light: "#fffbea",         // Softer, less bright pastel yellow background
-          lightgray: "#f8f3e3",     // Very light, subtle yellow-tinted gray
-          gray: "#e8e0c0",          // Lighter medium yellow-tinted gray
-          darkgray: "#95907f",      // Lighter dark yellow-tinted gray (lightened)
-          dark: "#4a4840",          // Lightened near-black with yellow undertone
-          secondary: "#f0d280",     // Slightly more vibrant pastel yellow accent
-          tertiary: "#e6dbbf",      // Very soft pastel yellow-gold accent
-          highlight: "rgba(242, 222, 164, 0.15)", // Pastel yellow highlight
-          textHighlight: "#f7e9c688", // Soft pastel yellow text highlight
+          light: "#ffffff",
+          lightgray: "#f5f5f5",
+          gray: "#d4d4d4",
+          darkgray: "#737373",
+          dark: "#171717",
+          secondary: "#525252",
+          tertiary: "#a3a3a3",
+          highlight: "rgba(0, 0, 0, 0.05)",
+          textHighlight: "#e5e5e588",
         },
         darkMode: {
-          light: "#1a1a1c",         // Dark background with slight warmth
-          lightgray: "#2d2d2f",     // Slightly lighter neutral gray
-          gray: "#5a5a5c",          // Medium neutral gray
-          darkgray: "#a8a8aa",      // Softer light neutral gray
-          dark: "#b8b8ba",          // Very soft white-gray blend
-          secondary: "#9c9c9c",     // Neutral silver accent
-          tertiary: "#707070",      // Secondary neutral accent
-          highlight: "rgba(156, 156, 156, 0.15)", // Neutral highlight
-          textHighlight: "#88888888", // Neutral text highlight
+          light: "#141414",
+          lightgray: "#1e1e1e",
+          gray: "#404040",
+          darkgray: "#a3a3a3",
+          dark: "#e5e5e5",
+          secondary: "#a3a3a3",
+          tertiary: "#525252",
+          highlight: "rgba(255, 255, 255, 0.05)",
+          textHighlight: "#40404088",
         },
       },
     },
@@ -88,8 +88,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // CustomOgImages disabled — requires Google Fonts for image generation
+      // Plugin.CustomOgImages(),
     ],
   },
 }
