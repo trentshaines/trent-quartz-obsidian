@@ -8,27 +8,29 @@ body {
   letter-spacing: normal;
 }
 
-// Links — clean gray, underline on hover only
+// Links — always underlined so they're obvious in monospace
 a {
   font-weight: 500;
   color: var(--darkgray);
+  text-decoration: underline;
+  text-underline-offset: 2px;
   transition: color 0.15s ease;
 
   &:hover {
     color: var(--dark);
-    text-decoration: underline;
   }
 
-  // Remove the highlighted background on internal links
+  // Internal links — same treatment
   &.internal {
     background-color: transparent;
     padding: 0;
     border-radius: 0;
     color: var(--darkgray);
+    text-decoration: underline;
+    text-underline-offset: 2px;
 
     &:hover {
       color: var(--dark);
-      text-decoration: underline;
     }
   }
 }
@@ -81,9 +83,18 @@ pre {
   border-radius: 0.5rem;
 }
 
-// Images — no border radius for cleaner look
+// Images — no border radius, tighter caption spacing
 img {
   border-radius: 0;
+  margin-bottom: 0.25rem;
+}
+
+// Image caption (em right after img)
+p > img + em {
+  margin-top: 0;
+  transform: none;
+  font-size: 0.875rem;
+  color: var(--gray);
 }
 
 // Line height — slightly more open
